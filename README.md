@@ -1,1 +1,4 @@
 # java
+
+
+java --version
